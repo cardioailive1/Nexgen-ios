@@ -1,0 +1,110 @@
+{
+  "identifier" : "942EEB30-5D7B-4801-9474-B29236A288E1",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "0000000000",
+    "_developerTeamID" : "W9464NC4J7",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 0,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "9E0B30D0-2EA3-465C-8A37-601E3E4CD580",
+      "localizations" : [
+
+      ],
+      "name" : "NexGen Chat",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.00",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "E8BC6F05-8105-443E-911E-29A5F3E7DEDA",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "NexGen Flash · 200K tokens/day",
+              "displayName" : "Flash",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.W9464NC4J7.nexgenchat.flash.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Flash Monthly",
+          "subscriptionGroupID" : "9E0B30D0-2EA3-465C-8A37-601E3E4CD580",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "15.00",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "29E05F2E-A4A6-46F0-9B30-4AE09638471F",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Faster, smarter NexGen Pro · 1M tokens/day",
+              "displayName" : "Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.W9464NC4J7.nexgenchat.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro Monthly",
+          "subscriptionGroupID" : "9E0B30D0-2EA3-465C-8A37-601E3E4CD580",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "25.00",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "AE5E4A2C-9E0E-4C71-9B66-1CEDD510A614",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Maximum speed & quality · 5M tokens/day",
+              "displayName" : "Ultra",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.W9464NC4J7.nexgenchat.ultra.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Ultra Monthly",
+          "subscriptionGroupID" : "9E0B30D0-2EA3-465C-8A37-601E3E4CD580",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
